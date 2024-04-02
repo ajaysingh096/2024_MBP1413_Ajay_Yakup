@@ -1,6 +1,8 @@
 Evaluating UNET and Mask R-CNN models for their generalizability with multimodal image datasets and detecting nuclei in tumours
 by Ajay Singh, Yakup Kohen.
-for MBP1413 - 2024 
+
+For MBP1413 - 2024 
+
 Git hub repo for UNET and Mask RCNN models.
 
 2024_MBP1413_Final_Report_Ajay_Yakup.pdf - Report
